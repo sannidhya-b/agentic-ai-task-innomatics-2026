@@ -8,7 +8,7 @@ Ajeenkya DY Patil University (ADYPU)
 
 ## 📌 Overview
 
-This repository contains my work, tasks, and implementations completed during the **Agentic AI Internship at Innomatics Research Labs (February 2026)**.
+This repository contains my work, tasks, and implementations completed during the **Agentic AI Internship at Innomatics Research Labs ( 11th February 2026)**.
 
 The internship focuses on building intelligent AI systems capable of reasoning, decision-making, and autonomous task execution using modern AI techniques.
 
